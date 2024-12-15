@@ -8,6 +8,7 @@ If you believe you have found a security vulnerability in any Fuel-owned reposit
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
+
 Instead, please use the GitHub Security Advisory ["Report a Vulnerability"](https://github.com/FuelLabs/sway/security/advisories/new) tab.
 
 The Fuel team will send a response indicating the next steps in handling your report. After the initial reply to your report, the team will keep you informed of the progress towards a fix and full announcement, and may ask for additional information or guidance.
